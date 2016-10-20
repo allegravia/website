@@ -4,20 +4,21 @@ title: Contact
 permalink: /contact/
 ---
 
-**Allegra Via, PhD**
+**Allegra Via, PhD** <br>
 ELIXR Italy Training Coordinator
 
-- Institute of Biomembranes and Bioenergetics (IBBE)
-National Research Council (CNR)
+* Institute of Biomembranes and Bioenergetics (IBBE) <br>
+National Research Council (CNR) <br>
 Bari (IT)
 
-- Biocomputing group
-Dept. of Physics, Sapienza Università
+* Biocomputing group <br>
+Department of Physics <br> 
+Sapienza University <br>
 Rome (IT)  
 
-- **Email:** 
-a.via@ibbe.cnr.it
-allegra.via@uniroma1.it
+* **Email:** <br>
+a.via@ibbe.cnr.it <br>
+allegra.via@uniroma1.it <br>
 allegra.via@gmail.com
    
-- **Skypename:** allegra.via  
+* **Skypename:** allegra.via  
