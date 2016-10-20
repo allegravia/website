@@ -90,7 +90,8 @@ The methods described in this section are quite normally used in classes, singul
 
 * **Methods to address unsufficient prior knowledge**
 
-**Identify the prior knowledge yu expect students to have** This paragraph is full of food for thought. In particular, about what instructors can do to keep themselves "mindful". Examples: "Identify in your own mind the knowledge students will need to have to perform effectively in your course"; or "ask yourself 'What do students need to know to be able to do this?'"; or "be sure to differentiate declarative from procedural knowledge".
+**Identify the prior knowledge you expect students to have** This paragraph is full of food for thought. In particular, about what instructors can do to keep themselves "mindful". Examples: "Identify in your own mind the knowledge students will need to have to perform effectively in your course"; or "ask yourself 'What do students need to know to be able to do this?'"; or "be sure to differentiate declarative from procedural knowledge".
+
 **Remediate Insufficient prerequisite knowledge** I also found very useful the pragmatic advice provided in this paragraph. In particular, that teachers' responses to students' insufficient prior knowledge need to be tuned on the scale of the problem and resources and options available to them and to their students.
 
 * **Methods to help students recognise inappropriate prior knowledge**
