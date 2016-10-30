@@ -107,3 +107,22 @@ The example reported in this section is not illuminating to me. It is too abstra
 11) **Monitor students' work for problems in their knoeledge organisation.**
 Again, this is something I regularly do in courses and I have to recognise it really pays back for all the energy needed to identify the pattern of mistakes they make. 
 
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+       
+    var disqus_shortname = 'allegravia';
+    
+    (function() {  
+        
+        var d = document, s = d.createElement('script');
+        
+        s.src = '//' + disqus_shortname + '.disqus.com/embed.js'; 
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+{% endif %}
