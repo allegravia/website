@@ -77,7 +77,7 @@ The latter apparently requires a lot of work, especially to obtain that students
 
 **Beliefs about intelligence and learning**<br>
 *Broaden students' understanding of learning.*
-Here, concepts discussed in chapter XX are recalled: learning and knowledge can operate on multiple levels. You can know something at one level (recognise it) but still not know it (know how to use it).
+Here, concepts discussed in chapter 1 are recalled: learning and knowledge can operate on multiple levels. You can know something at one level (recognise it) but still not know it (know how to use it).
 
 The diverse levels of knowledge are listed here more in detail: 
 
