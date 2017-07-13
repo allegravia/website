@@ -7,17 +7,13 @@ permalink: /contact/
 **Allegra Via, PhD** <br>
 ELIXR Italy Training Coordinator
 
-* Institute of Biomembranes and Bioenergetics (IBBE) <br>
-National Research Council (CNR) <br>
-Bari (IT)
-
-* Biocomputing group <br>
-Department of Physics <br> 
-Sapienza University <br>
-Rome (IT)  
+National Research Council of Italy (CNR)
+Institute of Molecular Biology and Pathology (IBPM)
+c/o Department of Biochemical Sciences "A. Rossi Fanelli"
+Sapienza University, Rome, IT
 
 * **Email:** <br>
-a.via@ibbe.cnr.it <br>
+allegra.via@.cnr.it <br>
 allegra.via@uniroma1.it <br>
 allegra.via@gmail.com
    
