@@ -14,8 +14,8 @@ Sapienza University, Rome, IT <br>
 Phone: +39 0649910556 <br>
 
 * **Email:** <br>
-allegra.via@.cnr.it <br>
 allegra.via@uniroma1.it <br>
-allegra.via@gmail.com
+allegra.via@gmail.com <br>
+allegra.via@.cnr.it 
    
 * **Skypename:** allegra.via  
