@@ -7,7 +7,7 @@ permalink: /publications/
 
 ### PEER-REVIEWED PUBLICATIONS
 
-1. Via A, Attwood TK, Fernandes PL, Morgan SL, Schneider MV, Rustici G, and Tractenberg RE. A new pan-European Train-the-Trainer Programme for bioinformatics: Pilot results on feasibility, utility and sustainability of learning. Submitted to Bioinformatics.
+1. Via A, Attwood TK, Fernandes PL, Morgan SL, Schneider MV, Rustici G, and Tractenberg RE. A new pan-European Train-the-Trainer Programme for bioinformatics: Pilot results on feasibility, utility and sustainability of learning. Submitted to Briefings in Bioinformatics.
 2. Jiménez RC et al. (2017) Four simple recommendations to encourage best practices in research software. F1000Research. doi: http://dx.doi.org/10.12688/f1000research.11407.1
 3.	Schiffthaler B, Kostadima M, the NGS Trainer Consortium, Delhomme N and Rustici G (2016) Training in High-Throughput Sequencing: Common Guidelines to Enable Material Sharing, Dissemination and Re-Usability. PLoS Computational Biology, 12(6): 
 e1004937. doi: 10.1371/journal.pcbi.1004937 
